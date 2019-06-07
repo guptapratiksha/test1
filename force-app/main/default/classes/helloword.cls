@@ -5,5 +5,5 @@ public with sharing class helloword {
 
     public static void main(String[] a){
         helloword hw=new helloword();
-    }
+        system.debug('helo oe');    }
 }
